@@ -35,7 +35,7 @@ Status of the request: The final status of the trip, that can be either complete
 Note: For this assignment, only the trips to and from the airport are being considered.
  
 
-Results Expected
+Results Expected: 
 Visually identify the most pressing problems for Uber. 
 Find out the gap between supply and demand and show the same using plots.
 Find the time slots when the highest gap exists
